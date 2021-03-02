@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb://grant:Grant123@contactkeeper-shard-00-00.onxcv.mongodb.net:27017,contactkeeper-shard-00-01.onxcv.mongodb.net:27017,contactkeeper-shard-00-02.onxcv.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-zxi5gb-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
